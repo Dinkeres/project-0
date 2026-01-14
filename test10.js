@@ -860,7 +860,8 @@
                 displayName: "Game Boy Advance",
                 description: "Classic portable console games",
                 games: [
-                    { name: "Pokemon Emerald Imperium", url: "https://roject-roms.pages.dev/Pokemon%20Emerald%20Imperium%20(1)" }
+                    { name: "Pokemon Radical Red (v4.1)", url: "https://roject-roms.pages.dev/Radical%20Red%20(v4.1)" }
+                    
                 ]
             },
             
