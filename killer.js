@@ -878,7 +878,7 @@
                 displayName: "Nintendo DS",
                 description: "Dual-screen classic games",
                 games: [
-                    { name: "Pokemon Platinum", url: "https://classicgame.com/ds/pokemon-platinum" }
+                    { name: "Pokemon white", url: "https://incomparable-hotteok-58d177.netlify.app/" }
                 ]
             },
             
