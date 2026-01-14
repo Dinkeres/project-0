@@ -858,7 +858,7 @@
         categories: {
             gba: {
                 displayName: "GBA",
-                description: "Classic portable console games",
+                description: "Mostly Pokemon Games",
                 games: [
                     { name: "Pokemon Radical Red (v4.1)", url: "https://roject-roms.pages.dev/Radical%20Red%20(v4.1)" },
                     { name: "Pokemon Elite Redux (v2.5)", url: "https://roject-roms.pages.dev/Elite%20Redux%20(v2.5)" }
