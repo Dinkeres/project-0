@@ -857,7 +857,7 @@
     const GAME_DATA = {
         categories: {
             gba: {
-                displayName: "Game Boy Advance",
+                displayName: "GBA",
                 description: "Classic portable console games",
                 games: [
                     { name: "Pokemon Radical Red (v4.1)", url: "https://roject-roms.pages.dev/Radical%20Red%20(v4.1)" },
