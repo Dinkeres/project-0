@@ -1,7 +1,6 @@
 (function() {
     'use strict';
     
-    // Create and inject CSS
     const style = document.createElement('style');
     style.textContent = `
         #project0-loading {
