@@ -1,7 +1,7 @@
 (function() {
     'use strict';
     
-    // Create and inject CSS
+    // Create and inject CSSsd
     const style = document.createElement('style');
     style.textContent = `
         #project0-loading {
