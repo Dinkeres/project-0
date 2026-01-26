@@ -868,7 +868,7 @@
             
             flash: {
                 displayName: "Flash Games",
-                description: "Classic web games from the 2000s",
+                description: "",
                 games: [
                     { name: "PapasFreezeria", url: "https://roject-roms.pages.dev/papasfreezeria" }
                 ]
